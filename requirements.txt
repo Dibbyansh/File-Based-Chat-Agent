@@ -1,0 +1,7 @@
+langchain 
+langchain-community 
+langchain-chroma 
+langchain-openrouter 
+langchain_huggingface
+sentence-transformers 
+python-dotenv

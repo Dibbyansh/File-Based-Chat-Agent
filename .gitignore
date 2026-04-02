@@ -1,0 +1,7 @@
+.vs
+/__pycache__
+/chroma_db
+.env
+/venv
+Comments_Main.py
+Comments_Retreiver.py
